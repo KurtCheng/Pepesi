@@ -1,0 +1,14 @@
+{
+  "name": "pepesi",
+  "version": "1.0.0",
+  "description": "Music Spleeter",
+  "main": "main.js",
+  "author": "cheng shaolei",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^19.0.9"
+  }
+}
